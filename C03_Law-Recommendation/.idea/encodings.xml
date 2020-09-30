@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/4.3.1 ALS数据准备-数据编码.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/4.3.2 ALS数据准备-过滤重复及一次访问用户.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/4.3.3 ALS数据准备-评分映射.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/4.4.1 ALS模型构建与推荐.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/4.4.2 ALS模型评估.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/4.4.3 ALS模型调优.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter1/A3_导入数据到MySQL.sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/chapter3/part2/Main.scala" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
