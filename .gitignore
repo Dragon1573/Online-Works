@@ -295,6 +295,6 @@ project/plugins/project/
 O2O-Analysis/
 **/docs/
 **/slides/
-**/resources/
+**/resources/*
 *.zip
 !*.torrent
