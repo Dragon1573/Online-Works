@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL (master)" uuid="2762f110-8311-41c8-b3cc-6a287d72cf30">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://master:3306/law</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Hive (master)" uuid="476154e3-8e6d-4eff-8db1-d08f4bf1659b">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <schema-control>FORBID</schema-control>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://master:10000/law</jdbc-url>
+      <code-style-scheme-name>Alibaba P3C CodeStyle</code-style-scheme-name>
+    </data-source>
+  </component>
+</project>
