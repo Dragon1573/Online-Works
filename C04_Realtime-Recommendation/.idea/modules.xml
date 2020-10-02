@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Item_Volume_10_Best.iml" filepath="$PROJECT_DIR$/.idea/modules/Item_Volume_10_Best.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Realtime-Recommendation.iml" filepath="$PROJECT_DIR$/.idea/modules/Realtime-Recommendation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Realtime-Recommendation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Realtime-Recommendation-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Store-Sale-Daily.iml" filepath="$PROJECT_DIR$/.idea/modules/Store-Sale-Daily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Volume_Query_Daily.iml" filepath="$PROJECT_DIR$/.idea/modules/Volume_Query_Daily.iml" />
     </modules>
   </component>
 </project>
