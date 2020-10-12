@@ -1,9 +1,10 @@
-
-
 // 全局项目配置
 lazy val globalSettings = Seq(
   // 远程仓库相关
-  resolvers += "central" at "https://mirrors.huaweicloud.com/repository/maven/",
+  resolvers ++= Seq(
+    "huawei" at "https://mirrors.huaweicloud.com/repository/maven",
+    "central" at "https://repo1.maven.org/maven2"
+    ),
 
   // 项目信息
   organization := "wang.dragon1573",
@@ -66,4 +67,17 @@ lazy val proj_3 = (project in file("src/module4/proj_3")).settings(
 
   name := "Item_Volume_10_Best",
   mainClass in Compile := Some("process.ItemVolume10Best")
+  )
+
+lazy val proj_4 = (project in file("src/module5")).settings(
+  globalSettings,
+  subProjSettings,
+
+  name := "Recommend_Model_Main",
+
+  libraryDependencies ++= Seq(
+    "org.apache.spark" %% "spark-streaming" % "2.4.0",
+    "org.apache.spark" %% "spark-mllib" % "2.4.0",
+    "org.apache.spark" %% "spark-streaming-kafka-0-10" % "2.4.0"
+    )
   )

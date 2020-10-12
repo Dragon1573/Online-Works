@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding:UTF-8 -*-
 from random import choice
 from random import randint
@@ -9,6 +8,7 @@ from string import capwords
 from string import digits
 from sys import argv
 from time import time
+from tqdm import tqdm
 
 
 def get_random(instr, length):
@@ -139,7 +139,7 @@ def get_random_tel():
         "158", "159", "186", "187", "188"
     ])
     # 随机生成8位号码
-    return isp_prefix + ''.join(sample(digits, 8))
+    return isp_prefix + ''.join(sample(digits, 4))
 
 
 def get_random_email(length):

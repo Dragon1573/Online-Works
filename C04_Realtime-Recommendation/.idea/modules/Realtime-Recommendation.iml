@@ -14,5 +14,21 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.11.12:jar" level="project" />
+    <orderEntry type="module-library">
+      <library name="sbt: unmanaged-sources-and-docs">
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/avro/avro-mapred/1.8.2/avro-mapred-1.8.2-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-core/1.5.2/orc-core-1.5.2-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-mapreduce/1.5.2/orc-mapreduce-1.5.2-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/avro/avro-mapred/1.8.2/avro-mapred-1.8.2-sources.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-core/1.5.2/orc-core-1.5.2-sources.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-mapreduce/1.5.2/orc-mapreduce-1.5.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Python 3.7 (Conda: base) interpreter library" level="application" />
   </component>
 </module>

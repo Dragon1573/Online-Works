@@ -66,5 +66,20 @@
     <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.25:jar" level="project" />
     <orderEntry type="library" name="sbt: org.slf4j:slf4j-log4j12:1.7.7:jar" level="project" />
     <orderEntry type="library" name="sbt: org.xerial.snappy:snappy-java:1.1.7.2:jar" level="project" />
+    <orderEntry type="module-library">
+      <library name="sbt: unmanaged-sources-and-docs">
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/avro/avro-mapred/1.8.2/avro-mapred-1.8.2-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-core/1.5.2/orc-core-1.5.2-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-mapreduce/1.5.2/orc-mapreduce-1.5.2-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/avro/avro-mapred/1.8.2/avro-mapred-1.8.2-sources.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-core/1.5.2/orc-core-1.5.2-sources.jar!/" />
+          <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/apache/orc/orc-mapreduce/1.5.2/orc-mapreduce-1.5.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
