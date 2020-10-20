@@ -1,0 +1,33 @@
+-- 脚本刷新网页作弊
+USE advertisement;
+SELECT ip, cookie, dt, count(*) AS count
+FROM case_data_sample
+GROUP BY ip, cookie, dt
+ORDER BY count DESC
+LIMIT 10;
+
+
+-- 定期清cookie
+USE advertisement;
+SELECT ip, dt, count(DISTINCT cookie) AS count
+FROM case_data_sample
+GROUP BY ip, dt
+ORDER BY count DESC
+LIMIT 10;
+
+-- ADSL重新拨号后刷新网页作弊
+-- ip前两段为97.200
+USE advertisement;
+SELECT concat_ws('.', tmp.ip_arr[0], tmp.ip_arr[1]) AS ip_two, tmp.dt, count(*) AS count
+FROM (SELECT split(ip, '\\.') AS ip_arr, dt FROM case_data_sample) tmp
+GROUP BY concat_ws('.', tmp.ip_arr[0], tmp.ip_arr[1]), tmp.dt
+ORDER BY count DESC
+LIMIT 10;
+
+-- ip前三段为97.200.183
+USE advertisement;
+SELECT concat_ws('.', tmp.ip_arr[0], tmp.ip_arr[1], tmp.ip_arr[2]) AS ip_three, tmp.dt, count(1) AS count
+FROM (SELECT split(ip, '\\.') AS ip_arr, dt FROM case_data_sample) tmp
+GROUP BY concat_ws('.', tmp.ip_arr[0], tmp.ip_arr[1], tmp.ip_arr[2]), tmp.dt
+ORDER BY -count
+LIMIT 10;

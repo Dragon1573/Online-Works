@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/main/module2/task2/B.Hive数据导入.hql" dialect="HiveQL" />
+    <file url="file://$PROJECT_DIR$/main/module2/task3/stage1/A.Hive统计记录数与日流量.hql" dialect="HiveQL" />
+    <file url="file://$PROJECT_DIR$/main/module2/task3/stage2/B.Hive缺失率探索.hql" dialect="HiveQL" />
+    <file url="file://$PROJECT_DIR$/main/module2/task4/A.Hive虚假流量特定数据探索,hql" dialect="HiveQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/main/module2/task3/stage1/A.Hive统计记录数与日流量.hql" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ad-traffic-cheating-preprocess-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/main/module3/target/ad-traffic-cheating-preprocess-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

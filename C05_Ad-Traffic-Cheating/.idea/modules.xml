@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/C05_Ad-Traffic-Cheating.iml" filepath="$PROJECT_DIR$/.idea/C05_Ad-Traffic-Cheating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/module4/ad-traffic-cheating-ml.iml" filepath="$PROJECT_DIR$/main/module4/ad-traffic-cheating-ml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/module3/ad-traffic-cheating-preprocess.iml" filepath="$PROJECT_DIR$/main/module3/ad-traffic-cheating-preprocess.iml" />
+    </modules>
+  </component>
+</project>

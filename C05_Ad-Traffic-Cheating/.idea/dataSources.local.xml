@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Hive" uuid="278bf798-093c-4ee1-831c-a278ec2ff5fd">
+      <database-info product="Apache Hive" version="1.2.1" jdbc-version="3.0" driver-name="Hive JDBC" driver-version="1.2.1" dbms="HIVE" exact-version="1.2.1" exact-driver-version="1.2" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" negative="1" />
+        </introspection-scope>
+        <substitutions use-mini-cat="false" />
+      </schema-mapping>
+      <legacy-introspector>true</legacy-introspector>
+      <load-sources>user_sources</load-sources>
+    </data-source>
+  </component>
+</project>

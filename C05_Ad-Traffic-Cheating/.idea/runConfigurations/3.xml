@@ -1,0 +1,81 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="数据标准化" type="SparkSubmitConfigurationType" factoryName="SshSparkJobConfigurationType" show_console_on_std_err="false" show_console_on_std_out="false">
+    <option name="allowRunningInParallel" value="false" />
+    <option name="archives">
+      <list />
+    </option>
+    <option name="artifactArgs" value="" />
+    <option name="artifactPath">
+      <FilePath>
+        <option name="path" value="$PROJECT_DIR$/main/module3/target/ad-traffic-cheating-preprocess-1.0.jar" />
+        <option name="type" value="UPLOAD" />
+      </FilePath>
+    </option>
+    <option name="className" value="task7.DataStandardize" />
+    <option name="clusterManager" value="STANDALONE" />
+    <option name="conf" value="" />
+    <option name="deployMode" value="CLIENT" />
+    <option name="driverClassPath">
+      <list />
+    </option>
+    <option name="driverCores" value="1" />
+    <option name="driverJavaOptions" value="" />
+    <option name="driverLibraryPath">
+      <list />
+    </option>
+    <option name="driverMemory" value="1024M" />
+    <option name="envParams" value="" />
+    <option name="excludePackages" value="" />
+    <option name="executorCores" value="" />
+    <option name="executorMemory" value="1G" />
+    <option name="files">
+      <list />
+    </option>
+    <option name="interactive" value="false" />
+    <option name="jars">
+      <list />
+    </option>
+    <option name="keytab">
+      <FilePath>
+        <option name="path" value="" />
+        <option name="type" value="CUSTOM" />
+      </FilePath>
+    </option>
+    <option name="master" value="spark://master:7077" />
+    <option name="numExecutors" value="" />
+    <option name="packages" value="" />
+    <option name="principal" value="" />
+    <option name="propertiesFile">
+      <FilePath>
+        <option name="path" value="" />
+        <option name="type" value="CUSTOM" />
+      </FilePath>
+    </option>
+    <option name="proxyUser" value="" />
+    <option name="pyFiles">
+      <list />
+    </option>
+    <option name="queue" value="" />
+    <option name="repositories" value="" />
+    <option name="selectedOptions">
+      <set />
+    </option>
+    <option name="shellExecutor" value="/bin/bash" />
+    <option name="sparkHome" value="/usr/local/spark-2.4.0-bin-hadoop2.6" />
+    <option name="sparkMonitoringDriverId" value="" />
+    <option name="sshConfigId" value="9f0f387c-c72b-419b-a922-b60e400d0d1c" />
+    <option name="supervise" value="false" />
+    <option name="targetDirectory">
+      <FilePath>
+        <option name="path" value="/root/Downloads" />
+        <option name="type" value="SERVER" />
+      </FilePath>
+    </option>
+    <option name="totalExecutorCores" value="" />
+    <option name="verbose" value="false" />
+    <method v="2">
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/main/module3/pom.xml" goal="clean package" />
+      <option name="SftpSparkFileUpload" enabled="true" />
+    </method>
+  </configuration>
+</component>

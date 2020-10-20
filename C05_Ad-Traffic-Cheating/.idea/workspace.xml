@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Feature-Preprocess" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:project" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27f4beef-d65d-489d-85e5-2d9bab90e8cf" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main/module2/task3/stage2/B.Hive缺失率探索.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main/module2/task4/A.Hive虚假流量特定数据探索,hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main/module2/task3/stage1/A.Hive统计记录数与日流量.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/278bf798-093c-4ee1-831c-a278ec2ff5fd/console.sql" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="96c9a7cb-c482-4857-bad7-01d3b091809c" />
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="failureBehavior" value="NEVER" />
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:\Maven" />
+        <option name="outputLevel" value="ERROR" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="lookForNested" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ifYrgjDDryUGDbitXTFt9SAEat" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hive" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="Pretty-Groovy.txt.groovy" />
+    <property name="database.data.extractors.current.id" value="Tab-separated (TSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/module4/target/ad-traffic-cheating-ml-1.0.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.159019" />
+    <property name="project.structure.side.proportion" value="0.34386617" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="7" />
+    <property name="service.view.auto.scroll.to.source" value="true" />
+    <property name="settings.editor.selected.configurable" value="bigdataide_conn_settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C05_Ad-Traffic-Cheating\main" />
+      <recent name="D:\Big_Data\Courses\C05_Ad-Traffic-Cheating\main\module5\src\task6\stage1" />
+      <recent name="D:\Big_Data\Courses\C05_Ad-Traffic-Cheating\main\module2\task4" />
+      <recent name="D:\Big_Data\Courses\C05_Ad-Traffic-Cheating\main\module2\task3\stage2" />
+      <recent name="D:\Big_Data\Courses\C05_Ad-Traffic-Cheating\main\module2\task3\stage1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C05_Ad-Traffic-Cheating\main\module4\src\task8" />
+      <recent name="D:\Big_Data\Courses\C05_Ad-Traffic-Cheating\module6" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle tasks" flag="true" />
+      <visibility group="Grunt tasks" flag="true" />
+      <visibility group="Gulp tasks" flag="true" />
+      <visibility group="Maven goals" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="npm" flag="true" />
+      <visibility group="sbt" flag="true" />
+      <visibility group="yarn" flag="true" />
+    </myKeys>
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spark Submit.随机森林模型实战">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spark Submit.数据预处理" />
+      <item itemvalue="Spark Submit.特征构建" />
+      <item itemvalue="Spark Submit.数据标准化" />
+      <item itemvalue="Spark Submit.决策树模型实战" />
+      <item itemvalue="Spark Submit.随机森林模型实战" />
+      <item itemvalue="数据库脚本.Hive数据导入" />
+    </list>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="includeBlockExpressions" value="true" />
+    <option name="includeLiterals" value="true" />
+    <option name="projectViewHighlighting" value="true" />
+    <option name="showArgumentsToByNameParams" value="true" />
+    <option name="showImplisitConversions" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="Dragon1573" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27f4beef-d65d-489d-85e5-2d9bab90e8cf" name="默认的" comment="" />
+      <created>1602300319631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602300319631</updated>
+      <workItem from="1602300323174" duration="5134000" />
+      <workItem from="1602334003301" duration="13776000" />
+      <workItem from="1602385519853" duration="1737000" />
+      <workItem from="1602387780590" duration="37315000" />
+      <workItem from="1602468309403" duration="1083000" />
+      <workItem from="1602469624736" duration="13803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="9" width="1718" height="1071" key="#Big_Data_Tools_Connections" timestamp="1602487723455">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="202" y="9" width="1718" height="1071" key="#Big_Data_Tools_Connections/0.0.1920.1080@0.0.1920.1080" timestamp="1602487723455" />
+    <state x="622" y="288" key="#BuildArtifactsBeforeRunChooser" timestamp="1602412292230">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="288" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602412292230" />
+    <state x="625" y="316" key="#Notifications" timestamp="1602334701036">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="316" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1602334701036" />
+    <state x="425" y="297" key="#SQL_方言" timestamp="1602337933981">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="425" y="297" key="#SQL_方言/0.0.1920.1080@0.0.1920.1080" timestamp="1602337933981" />
+    <state x="505" y="359" key="#SQL_解析范围" timestamp="1602304806993">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="505" y="359" key="#SQL_解析范围/0.0.1920.1080@0.0.1920.1080" timestamp="1602304806993" />
+    <state x="367" y="88" key="#SSH_配置" timestamp="1602417272777">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="367" y="88" key="#SSH_配置/0.0.1920.1080@0.0.1920.1080" timestamp="1602417272777" />
+    <state x="20" y="0" width="1753" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602487396160">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="20" y="0" width="1753" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602487396160" />
+    <state x="649" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602427180618">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="649" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602427180618" />
+    <state x="595" y="432" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1602470079103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="595" y="432" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602470079103" />
+    <state x="430" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602411406436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="430" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602411406436" />
+    <state x="693" y="246" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1602343251715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="246" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602343251715" />
+    <state x="905" y="348" key="#控制台" timestamp="1602398281096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="905" y="348" key="#控制台/0.0.1920.1080@0.0.1920.1080" timestamp="1602398281096" />
+    <state x="312" y="10" key="#项目结构" timestamp="1602427687441">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="312" y="10" key="#项目结构/0.0.1920.1080@0.0.1920.1080" timestamp="1602427687441" />
+    <state width="288" height="242" key="DatabaseViewActions_Filter" timestamp="1602334157823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="288" height="242" key="DatabaseViewActions_Filter/0.0.1920.1080@0.0.1920.1080" timestamp="1602334157823" />
+    <state x="923" y="346" key="FileChooserDialogImpl" timestamp="1602487566716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="923" y="346" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602487566716" />
+    <state width="1871" height="874" key="GridCell.Tab.0.bottom" timestamp="1602488509232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1871" height="874" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602488509232" />
+    <state width="1871" height="874" key="GridCell.Tab.0.center" timestamp="1602488509232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1871" height="874" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602488509232" />
+    <state width="1871" height="874" key="GridCell.Tab.0.left" timestamp="1602488509232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1871" height="874" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602488509232" />
+    <state width="1871" height="874" key="GridCell.Tab.0.right" timestamp="1602488509232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1871" height="874" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602488509232" />
+    <state width="215" height="692" key="HiddenNamespacesPopup" timestamp="1602304834756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="215" height="692" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1602304834756" />
+    <state x="374" y="111" key="Maven.ArtifactSearchDialog" timestamp="1602343928670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="374" y="111" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602343928670" />
+    <state x="306" y="0" key="NewModule_or_Project.wizard" timestamp="1602469569728">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="306" y="0" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602469569728" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1602488135579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602488135579" />
+    <state width="418" height="674" key="SqlResolveConfigurable" timestamp="1602304802866">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="418" height="674" key="SqlResolveConfigurable/0.0.1920.1080@0.0.1920.1080" timestamp="1602304802866" />
+    <state x="624" y="298" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1602401204456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="298" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602401204456" />
+    <state x="873" y="474" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1602334730366">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="873" y="474" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1080@0.0.1920.1080" timestamp="1602334730366" />
+    <state x="455" y="141" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport" timestamp="1602339290585">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="455" y="141" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport/0.0.1920.1080@0.0.1920.1080" timestamp="1602339290585" />
+    <state x="0" y="171" width="1887" height="1022" key="dock-window-1" timestamp="1602403958236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="171" width="1887" height="1022" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1602403958236" />
+    <state x="777" y="156" width="706" height="867" key="ftp.server.browser" timestamp="1602482698568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="156" width="706" height="867" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1602482698568" />
+    <state x="0" y="30" width="1920" height="986" key="new project wizard" timestamp="1602469082582">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="30" width="1920" height="986" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602469082582" />
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup" timestamp="1602416125240">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602416125240" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1602425248151">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602425248151" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

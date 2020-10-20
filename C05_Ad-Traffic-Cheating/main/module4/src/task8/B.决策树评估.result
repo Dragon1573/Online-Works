@@ -1,0 +1,10 @@
+Decision Tree Model:
+    Accuracy = 0.9124995599159733
+    Test Error = 0.08750044008402669
+    Confusion Matrix = [
+        153375.0  18492.0
+        11332.0   157645.0
+    ]
+    F1 Value = 0.9124765291706354
+    Precision Rate = 0.9132596969977567
+    Recall Rate = 0.9124995599159733

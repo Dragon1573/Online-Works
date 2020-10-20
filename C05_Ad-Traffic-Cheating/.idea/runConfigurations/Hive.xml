@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Hive数据导入" type="DatabaseScript">
+    <script-file value="$PROJECT_DIR$/main/module2/task2/B.Hive数据导入.hql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="278bf798-093c-4ee1-831c-a278ec2ff5fd" />
+    <method v="2" />
+  </configuration>
+</component>
