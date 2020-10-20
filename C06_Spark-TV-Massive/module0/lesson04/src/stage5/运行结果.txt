@@ -1,0 +1,12 @@
+数据表 `media_index_3m` 共有2025252行重复记录
+数据表 `media_index_3m` 共有8833条结束时间早于开始时间的异常记录
+字段 `media_index_3m.phone_no` 共有0行空记录
+数据表 `mediamatch_userevent` 共有47行重复记录
+字段 `mediamatch_userevent.phone_no` 共有0行空记录
+数据表 `mediamatch_usermsg` 共有0行重复记录
+字段 `mediamatch_usermsg.phone_no` 共有0行空记录
+数据表 `mediamatch_usermsg` 中有0个用户分别拥有多条记录
+数据表 `mmconsume_billevents` 共有10683行重复记录
+字段 `mmconsume_billevents.phone_no` 共有0行空记录
+数据表 `order_index_v3` 共有8258行重复记录
+字段 `order_index_v3.phone_no` 共有0行空记录

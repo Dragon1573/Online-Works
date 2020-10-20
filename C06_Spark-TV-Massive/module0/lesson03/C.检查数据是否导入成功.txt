@@ -1,0 +1,92 @@
+> 数据库中所有的表
++--------------------+
+|tab_name            |
++--------------------+
+|media_index_3m      |
+|mediamatch_userevent|
+|mediamatch_usermsg  |
+|mmconsume_billevents|
+|order_index_v3      |
++--------------------+
+
+> 检查表 mediamatch_usermsg 是否正常
++-----------+---------+-----------------+           +------+
+|col_name   |data_type|comment          |           |_c0   |
++-----------+---------+-----------------+           +------+
+|terminal_no|string   |from deserializer|           |100000|
+|phone_no   |string   |from deserializer|           +------+
+|sm_name    |string   |from deserializer|
+|run_name   |string   |from deserializer|
+|owner_name |string   |from deserializer|
+|owner_code |string   |from deserializer|
+|run_time   |string   |from deserializer|
+|addressoj  |string   |from deserializer|
+|open_time  |string   |from deserializer|
+|force      |string   |from deserializer|
++-----------+---------+-----------------+
+
+> 检查表 mediamatch_userevent 是否正常
++----------+---------+-----------------+            +----+
+|col_name  |data_type|comment          |            |_c0 |
++----------+---------+-----------------+            +----+
+|phone_no  |string   |from deserializer|            |3000|
+|run_name  |string   |from deserializer|            +----+
+|run_time  |string   |from deserializer|
+|owner_name|string   |from deserializer|
+|owner_code|string   |from deserializer|
+|open_time |string   |from deserializer|
+|sm_name   |string   |from deserializer|
++----------+---------+-----------------+
+
+> 检查表 mmconsume_billevents 是否正常
++-----------+---------+-----------------+           +------+
+|col_name   |data_type|comment          |           |_c0   |
++-----------+---------+-----------------+           +------+
+|terminal_no|string   |from deserializer|           |439158|
+|phone_no   |string   |from deserializer|           +------+
+|fee_code   |string   |from deserializer|
+|year_month |string   |from deserializer|
+|owner_name |string   |from deserializer|
+|owner_code |string   |from deserializer|
+|should_pay |string   |from deserializer|
+|favour_fee |string   |from deserializer|
++-----------+---------+-----------------+
+
+> 检查表 order_index_v3 是否正常
++-----------+---------+-----------------+           +------+
+|col_name   |data_type|comment          |           |_c0   |
++-----------+---------+-----------------+           +------+
+|terminal_no|string   |from deserializer|           |608514|
+|phone_no   |string   |from deserializer|           +------+
+|fee_code   |string   |from deserializer|
+|year_month |string   |from deserializer|
+|owner_name |string   |from deserializer|
+|owner_code |string   |from deserializer|
+|should_pay |string   |from deserializer|
+|favour_fee |string   |from deserializer|
++-----------+---------+-----------------+
+
+> 检查表 media_index_3m 是否正常
++-------------+---------+-----------------+         +-------+
+|col_name     |data_type|comment          |         |_c0    |
++-------------+---------+-----------------+         +-------+
+|terminal_no  |string   |from deserializer|         |4754442|
+|phone_no     |string   |from deserializer|         +-------+
+|duration     |string   |from deserializer|
+|station_name |string   |from deserializer|
+|origin_time  |string   |from deserializer|
+|end_time     |string   |from deserializer|
+|owner_code   |string   |from deserializer|
+|owner_name   |string   |from deserializer|
+|vod_cat_tags |string   |from deserializer|
+|resolution   |string   |from deserializer|
+|audio_lang   |string   |from deserializer|
+|region       |string   |from deserializer|
+|res_name     |string   |from deserializer|
+|res_type     |string   |from deserializer|
+|vod_title    |string   |from deserializer|
+|category_name|string   |from deserializer|
+|program_title|string   |from deserializer|
+|sm_name      |string   |from deserializer|
++-------------+---------+-----------------+
+

@@ -298,3 +298,4 @@ O2O-Analysis/
 **/resources/*
 *.zip
 !*.torrent
+*.csv

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e94c184-2bed-42dc-b34c-4b2f4e95f1dd" name="集群" url="http://localhost">
+        <fileTransfer rootFolder="/root/Downloads/C06/scripts" accessType="SFTP" host="master" port="22" sshConfigId="38eddecb-d3fc-484c-8620-b31fe73b238c" sshConfig="root@master:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

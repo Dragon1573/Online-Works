@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="导入CSV数据库" type="DatabaseScript">
+    <script-file value="$PROJECT_DIR$/module0/lesson03/B.导入CSV数据.hql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="28686efd-d441-43c8-a29c-93d4953aa773" />
+    <method v="2" />
+  </configuration>
+</component>

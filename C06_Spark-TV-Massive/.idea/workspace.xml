@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:project" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f8a6cc5-d7f0-4bd9-853f-6454cd64360a" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/../C04_Realtime-Recommendation/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../C04_Realtime-Recommendation/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelCheckJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelCheckJob.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelTrainJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelTrainJob.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/module0/lesson03/B.导入CSV数据.hql" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/module1/src/hive/检查处理完成的新表.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/28686efd-d441-43c8-a29c-93d4953aa773/console.sql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module0/lesson03/C.检查数据导入是否成功.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module0/lesson03/B.导入CSV数据.hql" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="96c9a7cb-c482-4857-bad7-01d3b091809c" />
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="failureBehavior" value="NEVER" />
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:\Program_Files_(x64)\JetBrains\IntelliJ\plugins\maven\lib\maven3" />
+        <option name="outputLevel" value="ERROR" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="lookForNested" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1imOdnrTfnUKBwLAX6MxejT1C5b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hive" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="Pretty-Groovy.txt.groovy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="问题" />
+    <property name="project.structure.proportion" value="0.159019" />
+    <property name="project.structure.side.proportion" value="0.34386617" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="7" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.15764582" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson8" />
+      <recent name="lesson6" />
+      <recent name="lessonX" />
+      <recent name="lesson7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src\hive-check" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04\src" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle tasks" flag="true" />
+      <visibility group="Grunt tasks" flag="true" />
+      <visibility group="Gulp tasks" flag="true" />
+      <visibility group="Maven goals" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="false" />
+      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.grunt.GruntRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.gulp.GulpRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Npm" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Yarn" flag="false" />
+      <visibility group="com.jetbrains.nodejs.execution.NodeRunAnythingProvider" flag="false" />
+      <visibility group="npm" flag="true" />
+      <visibility group="org.jetbrains.idea.maven.execution.MavenRunAnythingProvider" flag="true" />
+      <visibility group="org.jetbrains.plugins.gradle.execution.GradleRunAnythingProvider" flag="false" />
+      <visibility group="org.jetbrains.sbt.SbtRunAnythingProvider" flag="false" />
+      <visibility group="sbt" flag="true" />
+      <visibility group="yarn" flag="true" />
+    </myKeys>
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="includeBlockExpressions" value="true" />
+    <option name="includeLiterals" value="true" />
+    <option name="projectViewHighlighting" value="true" />
+    <option name="showArgumentsToByNameParams" value="true" />
+    <option name="showImplisitConversions" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f8a6cc5-d7f0-4bd9-853f-6454cd64360a" name="默认的" comment="" />
+      <created>1602509399276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602509399276</updated>
+      <workItem from="1602509401504" duration="11975000" />
+      <workItem from="1602550398541" duration="39228000" />
+      <workItem from="1602638657992" duration="19288000" />
+      <workItem from="1602665108341" duration="1196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="237" width="1364" height="843" key="#Log_Highlighting_(ideolog)" timestamp="1602520552705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="237" width="1364" height="843" key="#Log_Highlighting_(ideolog)/0.0.1920.1080@0.0.1920.1080" timestamp="1602520552705" />
+    <state x="625" y="316" key="#Notifications" timestamp="1602521101649">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="316" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1602521101649" />
+    <state x="425" y="341" key="#SQL_方言" timestamp="1602514701955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="425" y="341" key="#SQL_方言/0.0.1920.1080@0.0.1920.1080" timestamp="1602514701955" />
+    <state x="362" y="10" key="#SSH_配置" timestamp="1602512667443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="362" y="10" key="#SSH_配置/0.0.1920.1080@0.0.1920.1080" timestamp="1602512667443" />
+    <state x="411" y="0" width="1098" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602567965583">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="411" y="0" width="1098" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602567965583" />
+    <state x="632" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602654056658">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="632" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602654056658" />
+    <state x="718" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1602560499034">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="718" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602560499034" />
+    <state x="654" y="375" width="612" height="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602665448929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="654" y="375" width="612" height="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1602665448929" />
+    <state x="582" y="202" key="#检查" timestamp="1602516574927">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="582" y="202" key="#检查/0.0.1920.1080@0.0.1920.1080" timestamp="1602516574927" />
+    <state x="312" y="9" key="#项目结构" timestamp="1602579650176">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="312" y="9" key="#项目结构/0.0.1920.1080@0.0.1920.1080" timestamp="1602579650176" />
+    <state x="687" y="236" key="FileChooserDialogImpl" timestamp="1602648445556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="236" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602648445556" />
+    <state width="1280" height="881" key="GridCell.Tab.0.bottom" timestamp="1602658117850">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="881" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117850" />
+    <state width="1280" height="881" key="GridCell.Tab.0.center" timestamp="1602658117849">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="881" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117849" />
+    <state width="1280" height="881" key="GridCell.Tab.0.left" timestamp="1602658117849">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="881" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117849" />
+    <state width="1280" height="881" key="GridCell.Tab.0.right" timestamp="1602658117850">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="881" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117850" />
+    <state width="215" height="692" key="HiddenNamespacesPopup" timestamp="1602520899382">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="215" height="692" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1602520899382" />
+    <state width="315" height="242" key="RunAnythingAction_Filter_Popup" timestamp="1602657001633">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="315" height="242" key="RunAnythingAction_Filter_Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602657001633" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1602658986917">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602658986917" />
+    <state x="614" y="218" width="675" height="665" key="StructurePopup" timestamp="1602653334669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="614" y="218" width="675" height="665" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1602653334669" />
+    <state x="647" y="146" width="659" height="788" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1602516320902">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="146" width="659" height="788" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602516320902" />
+    <state x="728" y="18" width="628" height="867" key="ftp.server.browser" timestamp="1602561418880">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="728" y="18" width="628" height="867" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1602561418880" />
+    <state width="591" height="503" key="javadoc.popup.new" timestamp="1602666169218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="591" height="503" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1602666169218" />
+    <state x="561" y="15" key="new project wizard" timestamp="1602558541931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="561" y="15" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602558541931" />
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup" timestamp="1602657001587">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602657001587" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
