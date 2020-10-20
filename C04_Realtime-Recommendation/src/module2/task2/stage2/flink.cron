@@ -1,0 +1,1 @@
+* * * * * python /root/Downloads/query_generator.py /tmp/flink-datasets/$(date + "\%Y-\%m-\%d-\%H-\%M-\%S").log 1000

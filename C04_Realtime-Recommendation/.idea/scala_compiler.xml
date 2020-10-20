@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Item_Volume_10_Best,Realtime-Recommendation,Recommend_Model_Main,Recommend_Model_Test,Store-Sale-Daily,Store_Sale_Daily,Volume_Query_Daily,realtime-recommendation" />
+  </component>
+</project>
