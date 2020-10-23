@@ -23,7 +23,7 @@ CREATE TABLE mediamatch_usermsg
     run_time    STRING,
     addressoj   STRING,
     open_time   STRING,
-    FORCE       STRING
+    force       STRING
 ) ROW FORMAT DELIMITED FIELDS TERMINATED BY "\073";
 LOAD DATA LOCAL INPATH '/root/Downloads/C06/datasets/mediamatch_usermsg.csv' OVERWRITE INTO TABLE mediamatch_usermsg;
 

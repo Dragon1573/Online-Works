@@ -9,11 +9,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="data-preprocess" />
         <module name="explore-analysis-A" />
+        <module name="svm-prediction" />
+        <module name="label-construct" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="data-preprocess" target="1.8" />
       <module name="explore-analysis-A" target="1.8" />
+      <module name="label-construct" target="1.8" />
+      <module name="label-construct (1)" target="1.8" />
+      <module name="svm-prediction" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

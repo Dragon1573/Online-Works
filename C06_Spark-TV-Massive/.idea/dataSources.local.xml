@@ -8,7 +8,7 @@
       <user-name>root</user-name>
       <schema-mapping>
         <introspection-scope>
-          <node kind="schema" qname="user_profile" />
+          <node kind="schema" negative="1" />
         </introspection-scope>
       </schema-mapping>
       <legacy-introspector>true</legacy-introspector>

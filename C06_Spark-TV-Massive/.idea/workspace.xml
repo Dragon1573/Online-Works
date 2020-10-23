@@ -28,9 +28,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f8a6cc5-d7f0-4bd9-853f-6454cd64360a" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/../C04_Realtime-Recommendation/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../C04_Realtime-Recommendation/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelCheckJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelCheckJob.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelTrainJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../C04_Realtime-Recommendation/src/module5/scala/AlsModelTrainJob.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson03/A.处理后数据集预览（前2行）.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson03/A.处理后数据集预览（前2行）.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson03/A.移除标题行.sh" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson03/A.移除标题行.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson03/B.导入CSV数据.hql" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson03/B.导入CSV数据.hql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson03/B.导入CSV数据.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson03/B.导入CSV数据.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson03/C.检查数据导入是否成功.hql" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson03/C.检查数据导入是否成功.hql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson03/C.检查数据是否导入成功.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson03/C.检查数据是否导入成功.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage1/ResearchTarget.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage1/ResearchTarget.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage1/分析结果.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage1/分析结果.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage2/BusinessType.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage2/BusinessType.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage2/分析结果.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage2/分析结果.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage3/MajorStatus.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage3/MajorStatus.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage3/分析结果.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage3/分析结果.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage4/ValidationExplore.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage4/ValidationExplore.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage4/运行结果.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage4/运行结果.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage5/BasicAnalysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage5/BasicAnalysis.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module0/lesson04/src/stage5/运行结果.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson04/src/stage5/运行结果.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/src/hive/Hive检查结果.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/src/hive/Hive检查结果.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/src/hive/检查处理完成的新表.hql" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/src/hive/检查处理完成的新表.hql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/src/lesson5/OrderIndexPreprocess.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/src/lesson5/OrderIndexPreprocess.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/src/lesson6/BillEventPreprocess.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/src/lesson6/BillEventPreprocess.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/src/lesson7/UserMessagePreprocess.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/src/lesson7/UserMessagePreprocess.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/src/lesson8/MediaIndexPreprocess.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/src/lesson8/MediaIndexPreprocess.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/src/lessonX/UserEventPreprocess.scala" beforeDir="false" afterPath="$PROJECT_DIR$/code/module1/src/lessonX/UserEventPreprocess.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +68,7 @@
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints>
-      <file url="file://$PROJECT_DIR$/module0/lesson03/B.导入CSV数据.hql" />
+      <file url="file://$PROJECT_DIR$/code/module0/lesson03/B.导入CSV数据.hql" />
     </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -61,10 +83,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/module1/src/hive/检查处理完成的新表.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/code/module1/src/hive/检查处理完成的新表.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/code/module0/lesson03/C.检查数据导入是否成功.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/code/module0/lesson03/B.导入CSV数据.hql" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/28686efd-d441-43c8-a29c-93d4953aa773/console.sql" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/module0/lesson03/C.检查数据导入是否成功.hql" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/module0/lesson03/B.导入CSV数据.hql" root0="SKIP_INSPECTION" />
   </component>
   <component name="JupyterTrust" id="96c9a7cb-c482-4857-bad7-01d3b091809c" />
   <component name="KotlinCodeInsightWorkspaceSettings">
@@ -119,8 +141,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="database.data.extractors.current.export.id" value="Pretty-Groovy.txt.groovy" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module1" />
+    <property name="database.data.extractors.current.export.id" value="HTML-JavaScript.html.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -134,13 +156,16 @@
     <property name="project.structure.proportion" value="0.159019" />
     <property name="project.structure.side.proportion" value="0.34386617" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="7" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
     <property name="settings.editor.splitter.proportion" value="0.15764582" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\code" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src\hive-check" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src" />
       <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04\src" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lesson8" />
@@ -148,11 +173,12 @@
       <recent name="lessonX" />
       <recent name="lesson7" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src\hive-check" />
-      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module3" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module2\src\lesson11" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module2" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1" />
       <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04\src" />
-      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -177,6 +203,8 @@
       <visibility group="org.jetbrains.sbt.SbtRunAnythingProvider" flag="false" />
       <visibility group="sbt" flag="true" />
       <visibility group="yarn" flag="true" />
+      <visibility group="最近的项目" flag="true" />
+      <visibility group="运行配置" flag="true" />
     </myKeys>
     <option name="myCommands">
       <command value="mvn clean" />
@@ -184,15 +212,13 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -221,6 +247,14 @@
       <workItem from="1602550398541" duration="39228000" />
       <workItem from="1602638657992" duration="19288000" />
       <workItem from="1602665108341" duration="1196000" />
+      <workItem from="1603169467583" duration="28056000" />
+      <workItem from="1603253705279" duration="683000" />
+      <workItem from="1603254755654" duration="42000" />
+      <workItem from="1603260866391" duration="4326000" />
+      <workItem from="1603265833802" duration="3480000" />
+      <workItem from="1603269512034" duration="5673000" />
+      <workItem from="1603276166337" duration="16642000" />
+      <workItem from="1603333557563" duration="19531000" />
     </task>
     <servers />
   </component>
@@ -247,10 +281,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="556" y="237" width="1364" height="843" key="#Log_Highlighting_(ideolog)/0.0.1920.1080@0.0.1920.1080" timestamp="1602520552705" />
-    <state x="625" y="316" key="#Notifications" timestamp="1602521101649">
+    <state x="625" y="316" key="#Notifications" timestamp="1603263260149">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="316" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1602521101649" />
+    <state x="625" y="316" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1603263260149" />
     <state x="425" y="341" key="#SQL_方言" timestamp="1602514701955">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -259,10 +293,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="362" y="10" key="#SSH_配置/0.0.1920.1080@0.0.1920.1080" timestamp="1602512667443" />
-    <state x="411" y="0" width="1098" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602567965583">
+    <state x="411" y="0" width="1098" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603360263847">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="411" y="0" width="1098" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602567965583" />
+    <state x="411" y="0" width="1098" height="1080" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603360263847" />
     <state x="632" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602654056658">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -275,6 +309,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="654" y="375" width="612" height="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1602665448929" />
+    <state x="660" y="216" key="#控制台" timestamp="1603336693635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="216" key="#控制台/0.0.1920.1080@0.0.1920.1080" timestamp="1603336693635" />
     <state x="582" y="202" key="#检查" timestamp="1602516574927">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -283,42 +321,67 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="312" y="9" key="#项目结构/0.0.1920.1080@0.0.1920.1080" timestamp="1602579650176" />
-    <state x="687" y="236" key="FileChooserDialogImpl" timestamp="1602648445556">
+    <state width="288" height="242" key="DatabaseViewActions_Filter" timestamp="1603265947919">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="687" y="236" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602648445556" />
-    <state width="1280" height="881" key="GridCell.Tab.0.bottom" timestamp="1602658117850">
+    <state width="288" height="242" key="DatabaseViewActions_Filter/0.0.1920.1080@0.0.1920.1080" timestamp="1603265947919" />
+    <state x="687" y="236" width="923" height="609" key="FileChooserDialogImpl" timestamp="1603352980676">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1280" height="881" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117850" />
-    <state width="1280" height="881" key="GridCell.Tab.0.center" timestamp="1602658117849">
+    <state x="687" y="236" width="923" height="609" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1603352980675" />
+    <state x="0" y="0" width="1920" height="1080" key="GrepConsoleSettings" timestamp="1603336781854">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1280" height="881" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117849" />
-    <state width="1280" height="881" key="GridCell.Tab.0.left" timestamp="1602658117849">
+    <state x="0" y="0" width="1920" height="1080" key="GrepConsoleSettings/0.0.1920.1080@0.0.1920.1080" timestamp="1603336781854" />
+    <state x="811" y="448" key="GrepConsoleSound" timestamp="1603336743351">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1280" height="881" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117849" />
-    <state width="1280" height="881" key="GridCell.Tab.0.right" timestamp="1602658117850">
+    <state x="811" y="448" key="GrepConsoleSound/0.0.1920.1080@0.0.1920.1080" timestamp="1603336743351" />
+    <state width="1867" height="881" key="GridCell.Tab.0.bottom" timestamp="1603360289346">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1280" height="881" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602658117850" />
+    <state width="1867" height="881" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603360289346" />
+    <state width="1867" height="881" key="GridCell.Tab.0.center" timestamp="1603360289346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="881" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603360289346" />
+    <state width="1867" height="881" key="GridCell.Tab.0.left" timestamp="1603360289346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="881" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603360289346" />
+    <state width="1867" height="881" key="GridCell.Tab.0.right" timestamp="1603360289346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="881" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603360289346" />
     <state width="215" height="692" key="HiddenNamespacesPopup" timestamp="1602520899382">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="215" height="692" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1602520899382" />
+    <state x="437" y="219" key="IDE.errors.dialog" timestamp="1603189993027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="437" y="219" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603189993027" />
     <state width="315" height="242" key="RunAnythingAction_Filter_Popup" timestamp="1602657001633">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="315" height="242" key="RunAnythingAction_Filter_Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602657001633" />
-    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1602658986917">
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1603335252660">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602658986917" />
-    <state x="614" y="218" width="675" height="665" key="StructurePopup" timestamp="1602653334669">
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603254795354" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603335252660" />
+    <state x="614" y="218" width="675" height="665" key="StructurePopup" timestamp="1603288216321">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="218" width="675" height="665" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1602653334669" />
+    <state x="614" y="218" width="675" height="665" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1603288216321" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1603172568070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1603172568070" />
+    <state x="452" y="207" key="Vcs.Push.Dialog.v2" timestamp="1603334996213">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="207" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603334996213" />
     <state x="647" y="146" width="659" height="788" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1602516320902">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -327,18 +390,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="728" y="18" width="628" height="867" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1602561418880" />
-    <state width="591" height="503" key="javadoc.popup.new" timestamp="1602666169218">
+    <state width="451" height="94" key="javadoc.popup.new" timestamp="1603352674313">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="591" height="503" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1602666169218" />
+    <state width="451" height="94" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1603352674313" />
     <state x="561" y="15" key="new project wizard" timestamp="1602558541931">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="561" y="15" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602558541931" />
-    <state x="532" y="246" width="840" height="1034" key="run.anything.popup" timestamp="1602657001587">
+    <state x="514" y="199" width="875" height="663" key="recent.locations.popup" timestamp="1603294588939">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="532" y="246" width="840" height="1034" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602657001587" />
+    <state x="514" y="199" width="875" height="663" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603294588939" />
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup" timestamp="1603346948840">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603346948840" />
+    <state x="539" y="45" width="840" height="174" key="search.everywhere.popup" timestamp="1603341668344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="174" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603341668344" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

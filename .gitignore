@@ -299,3 +299,4 @@ O2O-Analysis/
 *.zip
 !*.torrent
 *.csv
+*.pdf

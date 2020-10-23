@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spark广电大数据用户画像.iml" filepath="$PROJECT_DIR$/.idea/Spark广电大数据用户画像.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module1/data-preprocess.iml" filepath="$PROJECT_DIR$/module1/data-preprocess.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module0/lesson04/explore-analysis-A.iml" filepath="$PROJECT_DIR$/module0/lesson04/explore-analysis-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/module1/data-preprocess.iml" filepath="$PROJECT_DIR$/code/module1/data-preprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/module0/lesson04/explore-analysis-A.iml" filepath="$PROJECT_DIR$/code/module0/lesson04/explore-analysis-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/module2/label-construct.iml" filepath="$PROJECT_DIR$/code/module2/label-construct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/module3/svm-prediction.iml" filepath="$PROJECT_DIR$/code/module3/svm-prediction.iml" />
     </modules>
   </component>
 </project>

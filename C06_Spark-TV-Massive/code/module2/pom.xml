@@ -4,9 +4,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>wang.dragon1573.spark-broadcasting</groupId>
-  <artifactId>data-preprocess</artifactId>
+  <artifactId>label-construct</artifactId>
   <version>1.0</version>
-  <name>数据预处理</name>
+  <name>用户画像构建</name>
 
   <properties>
     <encoding>UTF-8</encoding>
@@ -46,12 +46,7 @@
       <artifactId>spark-sql_2.11</artifactId>
       <version>2.4.0</version>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-mllib -->
-    <dependency>
-      <groupId>org.apache.spark</groupId>
-      <artifactId>spark-mllib_2.11</artifactId>
-      <version>2.4.0</version>
-    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-hive -->
     <dependency>
       <groupId>org.apache.spark</groupId>
       <artifactId>spark-hive_2.11</artifactId>

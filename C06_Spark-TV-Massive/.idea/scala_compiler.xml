@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="data-preprocess,explore-analysis,explore-analysis-A">
+    <profile name="Maven 1" modules="data-preprocess,explore-analysis,explore-analysis-A,label-construct,label-construct (1),svm-prediction">
       <parameters>
         <parameter value="-target:jvm-1.8" />
       </parameters>
