@@ -1,4 +1,4 @@
 #!/usr/bin/env zsh
 ### 去除数据集的首行标题
 ###############################################################################
-sed -i '1d' ~/Downloads/C06/datasets/*
+sed -i '1d' /root/Downloads/C06/datasets/*

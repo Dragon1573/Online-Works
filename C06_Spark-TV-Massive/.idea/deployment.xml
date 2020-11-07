@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" serverName="集群" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="Huawei-ECS">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="集群">
         <serverdata>
           <mappings>
