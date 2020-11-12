@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:project" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f8a6cc5-d7f0-4bd9-853f-6454cd64360a" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/code/module0/lesson03/A.移除标题行.sh" beforeDir="false" afterPath="$PROJECT_DIR$/code/module0/lesson03/A.移除标题行.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/code/module0/lesson03/B.导入CSV数据.hql" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/code/module0/lesson03/B.导入CSV数据.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/code/module1/src/hive/检查处理完成的新表.hql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/code/module0/lesson03/C.检查数据导入是否成功.hql" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="96c9a7cb-c482-4857-bad7-01d3b091809c" />
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="failureBehavior" value="NEVER" />
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:\Program_Files_(x64)\JetBrains\IntelliJ\plugins\maven\lib\maven3" />
+        <option name="outputLevel" value="ERROR" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="lookForNested" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1imOdnrTfnUKBwLAX6MxejT1C5b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="hive&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="HTML-JavaScript.html.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Drivers/Apache-Hive/hive-jdbc-1.2.1-standalone.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.159019" />
+    <property name="project.structure.side.proportion" value="0.34386617" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="7" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.splitter.proportion" value="0.15764582" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module3" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module2\src\lesson11" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module2" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson8" />
+      <recent name="lesson6" />
+      <recent name="lessonX" />
+      <recent name="lesson7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\docs" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\code" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src\hive-check" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module1\src" />
+      <recent name="D:\Big_Data\Courses\C06_Spark-TV-Massive\module0\lesson04\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle tasks" flag="true" />
+      <visibility group="Grunt tasks" flag="true" />
+      <visibility group="Gulp tasks" flag="true" />
+      <visibility group="Maven goals" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="false" />
+      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.grunt.GruntRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.gulp.GulpRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Npm" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Yarn" flag="false" />
+      <visibility group="com.jetbrains.nodejs.execution.NodeRunAnythingProvider" flag="false" />
+      <visibility group="npm" flag="true" />
+      <visibility group="org.jetbrains.idea.maven.execution.MavenRunAnythingProvider" flag="true" />
+      <visibility group="org.jetbrains.plugins.gradle.execution.GradleRunAnythingProvider" flag="false" />
+      <visibility group="org.jetbrains.sbt.SbtRunAnythingProvider" flag="false" />
+      <visibility group="sbt" flag="true" />
+      <visibility group="yarn" flag="true" />
+      <visibility group="最近的项目" flag="true" />
+      <visibility group="运行配置" flag="true" />
+    </myKeys>
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp.Main" />
+      <module name="数据预处理" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="includeBlockExpressions" value="true" />
+    <option name="includeLiterals" value="true" />
+    <option name="projectViewHighlighting" value="true" />
+    <option name="showArgumentsToByNameParams" value="true" />
+    <option name="showImplisitConversions" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f8a6cc5-d7f0-4bd9-853f-6454cd64360a" name="默认的" comment="" />
+      <created>1602509399276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602509399276</updated>
+      <workItem from="1602509401504" duration="11975000" />
+      <workItem from="1602550398541" duration="39228000" />
+      <workItem from="1602638657992" duration="19288000" />
+      <workItem from="1602665108341" duration="1196000" />
+      <workItem from="1603169467583" duration="28056000" />
+      <workItem from="1603253705279" duration="683000" />
+      <workItem from="1603254755654" duration="42000" />
+      <workItem from="1603260866391" duration="4326000" />
+      <workItem from="1603265833802" duration="3480000" />
+      <workItem from="1603269512034" duration="5673000" />
+      <workItem from="1603276166337" duration="16642000" />
+      <workItem from="1603333557563" duration="19531000" />
+      <workItem from="1603440632342" duration="4672000" />
+      <workItem from="1603530024334" duration="5110000" />
+      <workItem from="1603679500387" duration="3178000" />
+      <workItem from="1603787191031" duration="1054000" />
+      <workItem from="1603817628265" duration="2164000" />
+      <workItem from="1603861780040" duration="1242000" />
+      <workItem from="1603863110241" duration="596000" />
+      <workItem from="1604224928389" duration="625000" />
+      <workItem from="1604229440881" duration="6797000" />
+      <workItem from="1604244914509" duration="3005000" />
+      <workItem from="1604285002581" duration="3048000" />
+      <workItem from="1604304139012" duration="1128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="104" key="#Deployment" timestamp="1603787620517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="104" key="#Deployment/0.0.1920.1080@0.0.1920.1080" timestamp="1603787620517" />
+    <state x="556" y="237" width="1364" height="843" key="#Log_Highlighting_(ideolog)" timestamp="1602520552705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="237" width="1364" height="843" key="#Log_Highlighting_(ideolog)/0.0.1920.1080@0.0.1920.1080" timestamp="1602520552705" />
+    <state x="625" y="316" key="#Notifications" timestamp="1603530236291">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="316" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1603530236291" />
+    <state x="425" y="341" key="#SQL_方言" timestamp="1602514701955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="425" y="341" key="#SQL_方言/0.0.1920.1080@0.0.1920.1080" timestamp="1602514701955" />
+    <state x="432" y="87" key="#SSH_Configurations" timestamp="1603787581776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="432" y="87" key="#SSH_Configurations/0.0.1920.1080@0.0.1920.1080" timestamp="1603787581776" />
+    <state x="362" y="10" key="#SSH_配置" timestamp="1602512667443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="362" y="10" key="#SSH_配置/0.0.1920.1080@0.0.1920.1080" timestamp="1602512667443" />
+    <state x="764" y="422" key="#Tomcat_Server" timestamp="1603787511390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="764" y="422" key="#Tomcat_Server/0.0.1920.1080@0.0.1920.1080" timestamp="1603787511390" />
+    <state x="0" y="0" width="1920" height="1059" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604304519623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1059" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604304519623" />
+    <state x="632" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602654056658">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="632" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602654056658" />
+    <state x="718" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1602560499034">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="718" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602560499034" />
+    <state x="540" y="214" width="964" height="703" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1603787891166">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="214" width="964" height="703" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1080@0.0.1920.1080" timestamp="1603787891166" />
+    <state x="452" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603862797078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603862797078" />
+    <state x="654" y="375" width="612" height="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602665448929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="654" y="375" width="612" height="335" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1602665448929" />
+    <state x="660" y="216" key="#控制台" timestamp="1603336693635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="216" key="#控制台/0.0.1920.1080@0.0.1920.1080" timestamp="1603336693635" />
+    <state x="582" y="202" key="#检查" timestamp="1602516574927">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="582" y="202" key="#检查/0.0.1920.1080@0.0.1920.1080" timestamp="1602516574927" />
+    <state x="312" y="9" key="#项目结构" timestamp="1602579650176">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="312" y="9" key="#项目结构/0.0.1920.1080@0.0.1920.1080" timestamp="1602579650176" />
+    <state width="315" height="242" key="DatabaseViewActions_Filter" timestamp="1603535078566">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="315" height="242" key="DatabaseViewActions_Filter/0.0.1920.1080@0.0.1920.1080" timestamp="1603535078566" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1604286658286">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604286658286" />
+    <state x="687" y="236" width="923" height="609" key="FileChooserDialogImpl" timestamp="1603787690475">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="236" width="923" height="609" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1603787690475" />
+    <state x="0" y="0" width="1920" height="1080" key="GrepConsoleSettings" timestamp="1603532216931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1080" key="GrepConsoleSettings/0.0.1920.1080@0.0.1920.1080" timestamp="1603532216931" />
+    <state x="811" y="448" key="GrepConsoleSound" timestamp="1603336743351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="811" y="448" key="GrepConsoleSound/0.0.1920.1080@0.0.1920.1080" timestamp="1603336743351" />
+    <state width="1280" height="886" key="GridCell.Tab.0.bottom" timestamp="1604304606537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="886" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604304606537" />
+    <state width="1280" height="886" key="GridCell.Tab.0.center" timestamp="1604304606537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="886" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604304606537" />
+    <state width="1280" height="886" key="GridCell.Tab.0.left" timestamp="1604304606537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="886" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604304606537" />
+    <state width="1280" height="886" key="GridCell.Tab.0.right" timestamp="1604304606537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="886" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604304606537" />
+    <state width="276" height="692" key="HiddenNamespacesPopup" timestamp="1604304560922">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="276" height="692" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1604304560922" />
+    <state x="437" y="219" key="IDE.errors.dialog" timestamp="1603189993027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="437" y="219" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603189993027" />
+    <state width="315" height="242" key="RunAnythingAction_Filter_Popup" timestamp="1602657001633">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="315" height="242" key="RunAnythingAction_Filter_Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602657001633" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1604243486363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603254795354" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604243486363" />
+    <state x="614" y="218" width="675" height="665" key="StructurePopup" timestamp="1603288216321">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="614" y="218" width="675" height="665" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1603288216321" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1603172568070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1603172568070" />
+    <state x="452" y="207" key="Vcs.Push.Dialog.v2" timestamp="1603334996213">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="207" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603334996213" />
+    <state x="647" y="146" width="659" height="788" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1602516320902">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="146" width="659" height="788" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602516320902" />
+    <state x="728" y="18" width="628" height="867" key="ftp.server.browser" timestamp="1603787644396">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="728" y="18" width="628" height="867" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1603787644396" />
+    <state width="451" height="94" key="javadoc.popup.new" timestamp="1604244625973">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="451" height="94" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1604244625973" />
+    <state x="561" y="15" key="new project wizard" timestamp="1602558541931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="561" y="15" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602558541931" />
+    <state x="514" y="199" width="875" height="663" key="recent.locations.popup" timestamp="1603294588939">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="514" y="199" width="875" height="663" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603294588939" />
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup" timestamp="1603346948840">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="532" y="246" width="840" height="1034" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603346948840" />
+    <state x="539" y="45" width="840" height="174" key="search.everywhere.popup" timestamp="1603341668344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="174" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603341668344" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

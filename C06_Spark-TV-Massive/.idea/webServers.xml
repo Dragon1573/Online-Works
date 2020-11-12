@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e94c184-2bed-42dc-b34c-4b2f4e95f1dd" name="集群" url="http://localhost">
+        <fileTransfer rootFolder="/root/Downloads/C06/scripts" accessType="SFTP" host="master" port="22" sshConfigId="38eddecb-d3fc-484c-8620-b31fe73b238c" sshConfig="root@master:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fda64223-c8aa-4118-b18c-7e2631ec4933" name="Huawei-ECS" url="http://www.dragon1573.wang">
+        <fileTransfer rootFolder="/home/dragon1573" accessType="SFTP" host="dragon1573.wang" port="497" sshConfigId="0c1558f4-1abe-4fd3-bf59-df6e27973a5b" sshConfig="dragon1573@dragon1573.wang:497 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

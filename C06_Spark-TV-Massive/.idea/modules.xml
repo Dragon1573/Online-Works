@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code/module3/SVM机器学习模型.iml" filepath="$PROJECT_DIR$/code/module3/SVM机器学习模型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spark广电大数据用户画像.iml" filepath="$PROJECT_DIR$/.idea/Spark广电大数据用户画像.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/module0/lesson04/数据探索.iml" filepath="$PROJECT_DIR$/code/module0/lesson04/数据探索.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/module1/数据预处理.iml" filepath="$PROJECT_DIR$/code/module1/数据预处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/module2/标签构建.iml" filepath="$PROJECT_DIR$/code/module2/标签构建.iml" />
+    </modules>
+  </component>
+</project>

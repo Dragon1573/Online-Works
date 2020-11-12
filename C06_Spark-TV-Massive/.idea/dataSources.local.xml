@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Hive (master)" uuid="28686efd-d441-43c8-a29c-93d4953aa773">
+      <database-info product="Apache Hive" version="1.2.1" jdbc-version="3.0" driver-name="Hive JDBC" driver-version="1.2.1" dbms="HIVE" exact-version="1.2.1" exact-driver-version="1.2" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" negative="1" />
+        </introspection-scope>
+        <substitutions use-mini-cat="false" />
+      </schema-mapping>
+      <legacy-introspector>true</legacy-introspector>
+      <load-sources>user_sources</load-sources>
+    </data-source>
+    <data-source name="MySQL (master)" uuid="47702148-68d7-4170-92ac-90e590169ee2">
+      <database-info product="MySQL" version="5.1.73" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )" dbms="MYSQL" exact-version="5.1.73" exact-driver-version="5.1">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="hive" />
+            <name qname="information_schema" />
+          </node>
+        </introspection-scope>
+        <substitutions use-mini-cat="false" />
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
